@@ -1,2 +1,2 @@
 Trying out git
-we are modifying the file from a branch!
+we are overwriting from github 
